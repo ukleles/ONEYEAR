@@ -1,0 +1,9 @@
+git 回滚到指定的版本
+打开到指定的项目 
+使用cd 项目的地址 
+
+git log 提交的日志 
+
+git reset --hard 哈希值  指定提价到具体的版本 
+
+git push -f origin master   加上 -f强制提交到远程 
